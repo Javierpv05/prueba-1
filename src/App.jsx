@@ -1,6 +1,6 @@
 import { Primera } from "./components/Primera.jsx";
 import { Contador } from "./components/Contador.jsx";
-import { CardProducto } from "./components/cardProducto.jsx";
+import { CardProducto } from "./components/CardProducto.jsx";
 import { MyRoutes } from "./routers/router.jsx";
 function App() {
   // const frutas = ["manzana", "banana", "pera"];
